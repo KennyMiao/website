@@ -1,0 +1,52 @@
+/* Minimal styling: navy for headings only, everything else default */
+:root {
+  --accent: #19376d;
+}
+
+/* Page titles: navy and large */
+h1, .title {
+  color: var(--accent);
+}
+
+/* Section headings: dark gray, smaller, with a hairline rule to separate levels clearly */
+h2 {
+  color: #333;
+  font-size: 1.25rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.25rem;
+  margin-top: 1.6rem;
+}
+
+h3 {
+  color: #333;
+  font-size: 1.05rem;
+}
+
+.paper-title {
+  font-weight: 600;
+}
+
+.paper-note {
+  color: #666;
+  font-size: 0.9em;
+}
+
+.jmp {
+  color: var(--accent);
+  font-weight: 600;
+  font-size: 0.9em;
+}
+
+details {
+  margin: 0.3em 0 1.2em;
+}
+
+details summary {
+  cursor: pointer;
+  color: var(--accent);
+  font-size: 0.9em;
+}
+
+details[open] summary {
+  margin-bottom: 0.4em;
+}
