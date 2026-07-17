@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Kenny (Ling) Miao"
+  site-url: https://kenny-miao.com
+  description: "Kenny Miao — Ph.D. Candidate in Government, University of Texas at Austin"
+  navbar:
+    background: light
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: files/Kenny-Miao-CV.pdf
+        text: CV
+  page-footer:
+    center: "© 2026 Kenny Miao"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true

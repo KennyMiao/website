@@ -1,0 +1,33 @@
+---
+title: "Teaching"
+---
+
+My teaching philosophy centers on building inclusive, engaged classrooms where students connect academic concepts to their lived experiences. I make complex material accessible by grounding theory in everyday experiences and classroom projects, while using simulations and games to bring abstract concepts to life.
+
+## Sample Courses
+
+[**Chinese Politics**]{.paper-title} (upper-level undergraduate) [[Syllabus](files/chinese-politics-syllabus.pdf)]
+
+An introduction to the internal logic of the Chinese party-state, structured around three core questions: how political power is organized in a fragmented authoritarian system, how the CCP maintains control while citizens exert influence, and what internal and external threats confront regime stability today. The course traces imperial and Maoist legacies, dissects the formal state and Party apparatus, examines the political economy of the "China Model," and analyzes mechanisms of social control before turning to contemporary challenges—inequality, cross-Strait relations, and demographic change. Students bridge theory and current events through a weekly news-analysis assignment.
+
+[**Religions in Contemporary Chinese Society**]{.paper-title} (upper-level undergraduate / graduate) [[Syllabus](files/religions-syllabus.pdf)]
+
+An interdisciplinary survey of religion in China for social science students. The course begins with how "religion" is conceptualized in the Chinese context and why the Western denominational model misses the diffused practices that pervade Chinese life, then examines the state's central role in shaping the religious field from the imperial era to the Xi-era Sinicization campaign. Individual units cover Buddhism, Confucianism, Daoism, folk religion, Islam, Christianity, and sectarian traditions. Assignments include a role-playing presentation in which students adopt the persona of a believer navigating a specific era of PRC history, and a final research proposal or review essay.
+
+## Teaching Experience
+
+**As (co-)instructor**, University of Texas at Austin
+
+- Math in Politics (Fall 2023)
+- Math Camp for Graduate Students (2021, 2022)
+
+**As teaching assistant**, University of Texas at Austin
+
+- Chinese Politics (Spring 2024)
+- Introduction to American Government (Spring 2021, Spring 2022)
+- Suicide Terrorism (Fall 2021)
+- U.S. Foreign Policy (Fall 2019, Spring 2020, Fall 2020)
+
+## Prepared to Teach
+
+The Political Economy of Religion; Politics of Development; Comparative Politics; and quantitative methods courses at the undergraduate and graduate levels, including Introductory Research Methods, Statistics, Causal Inference, and Experimental Methods.

@@ -1,0 +1,25 @@
+---
+title: "Kenny (Ling) Miao"
+image: profile.jpg
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:kenny.miao@utexas.edu
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/Kenny-Miao-CV.pdf
+---
+
+## Welcome
+
+I am a Ph.D. candidate in the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin. I received my M.A. in Political Science from Duke University and my B.A. in Political Science from Wuhan University.
+
+My central research agenda explores how authoritarian regimes shape the evolution of the religious field and how religious groups adapt to repressive political environments, with a primary focus on China. Beyond this core focus, I also work on projects related to state–society relations and public opinion under authoritarian rule. My research draws on experimental methods, archival research, and quantitative analysis.
+
+My dissertation book project, *Surviving and Reviving: Religion and Politics in Authoritarian China*, explains the puzzling rise of Protestant Christianity in China; a chapter from the project won the Best Student Paper Award from the Society for the Scientific Study of Religion. My research has appeared in the *Journal of Democracy*. I will be on the academic job market in the 2026–27 academic year.
+
+**Dissertation committee:** Xiaobo Lü and John Gerring (co-chairs), Kenneth F. Greene, Amy Liu, Anna Grzymała-Busse, and Fenggang Yang.
